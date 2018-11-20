@@ -1,2 +1,6 @@
 # salaus
-Lapsille salausjuttuja ja kryptausalgoritmeja
+
+Tehtävärasti Solitan lasten pikkujouluissa 2018 vuonna.
+
+Sisältää lapsille suunnattuja salausjuttuja ja kryptausalgoritmimateriaalia.
+
